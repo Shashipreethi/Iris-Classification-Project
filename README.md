@@ -39,14 +39,14 @@ KNN achieved the best accuracy.
 ## Project Structure
 
 Iris-Classification-Project/
-│
-├── data/
-├── notebook/
-├── models/
-├── screenshots/
-├── inference.py
-├── README.md
-└── best_iris_model.pkl
+                    │
+                    ├── data/
+                    ├── notebook/
+                    ├── models/
+                    ├── screenshots/
+                    ├── inference.py
+                    ├── README.md
+                    └── best_iris_model.pkl
 
 ## Run Project
 
